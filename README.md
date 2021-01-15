@@ -150,6 +150,7 @@
 
 ## Java 
 
+- [carpet-extra](https://github.com/gnembon/carpet-extra) - Extra Features for Carpet Mod
 - [amidst](https://github.com/toolbox4minecraft/amidst) - Advanced Minecraft Interface and Data/Structure Tracking
 - [WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [SeedSearcherStandaloneTool](https://github.com/Zodsmar/SeedSearcherStandaloneTool) - Minecraft, searching numeric seeds for specific features/biomes
@@ -229,6 +230,7 @@
 
 ## Others 
 
+- [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [WeMos-Lora](https://github.com/hallard/WeMos-Lora) - ESP8266 WeMos Shield for HopeRF RFM95 RFM96 RFM98 Lora module
 - [vscode-settings](https://github.com/CodingGarden/vscode-settings) - All of the themes / plugins / extensions / settings I use for VSCode.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -315,6 +317,7 @@
 
 ## Python 
 
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ulauncher-system](https://github.com/iboyperson/ulauncher-system) - 
 - [ulauncher-devdocs](https://github.com/brpaz/ulauncher-devdocs) - Ulauncher extension to search documentation on DevDocs
 - [ulauncher-ssh](https://github.com/jetbug123/ulauncher-ssh) - 
