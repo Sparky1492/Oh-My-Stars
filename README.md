@@ -5,12 +5,14 @@
 
 ## Contents
 
+  - [AGS Script](#ags-script)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Dart](#dart)
+  - [Eagle](#eagle)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [HTML](#html)
@@ -21,6 +23,7 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [OCaml](#ocaml)
+  - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
@@ -31,14 +34,28 @@
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [VBA](#vba)
+  - [Vala](#vala)
   - [Verilog](#verilog)
   - [Vim script](#vim-script)
   - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
   - [ZenScript](#zenscript)
+  - [nesC](#nesc)
+
+## AGS Script 
+
+- [modular-psu](https://github.com/eez-open/modular-psu) - EEZ Bench Box 3 (BB3) Modular T&M chassis
 
 ## C 
 
+- [PCB_Designs](https://github.com/PlumPot55/PCB_Designs) - Source Files of our PCB we did as a community
+- [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
+- [Otter-Iron](https://github.com/Jan--Henrik/Otter-Iron) - A TS100 USB-PD replacement PCB.
+- [OpenIKeys](https://github.com/ATMakersOrg/OpenIKeys) - An Open Source driver for the IntelliKeys AT Keyboard
+- [espthernet](https://github.com/cnlohr/espthernet) - ESP8266 10-Base-T Ethernet Driver
+- [qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [blender](https://github.com/blender/blender) - Official mirror of Blender
+- [ESP32-Cameras-and-MEMS-Microphones](https://github.com/SensorsIot/ESP32-Cameras-and-MEMS-Microphones) - Sketches for ESP32 Cameras and MEMS Microphones video
 - [awk](https://github.com/onetrueawk/awk) - One true awk
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
@@ -57,23 +74,38 @@
 
 ## C# # 
 
+- [design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food) - GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies
 - [CSM](https://github.com/CitiesSkylinesMultiplayer/CSM) - Source code for the Cities: Skylines Multiplayer mod (CSM)
 - [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [TaskBud](https://github.com/SteffenBlake/TaskBud) - Simple and  Lightweight Task Organizer and Manager written in Asp.Net MVC Core
 - [CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero) - C# boot camp
 - [grocy-desktop](https://github.com/grocy/grocy-desktop) - A (Windows) desktop application wrapper for https://github.com/grocy/grocy
 
 ## C++ 
 
+- [HunterCatNFC](https://github.com/ElectronicCats/HunterCatNFC) - The Hunter Cat NFC is the latest security tool for contactless (Near Field Communication) used in access control, identification and bank cards. Specially created to identify NFC readers and sniffing tools, with this tool you can audit, read or emulate cards of different types.
+- [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [Button2](https://github.com/LennartHennigs/Button2) - Arduino Library to simplify working with buttons. It allows you to use callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
+- [ESPRotary](https://github.com/LennartHennigs/ESPRotary) - Arduino/ESP8266 library to simplify reading rotary encoder data.
+- [KY040-rotary](https://github.com/dmachard/KY040-rotary) - KY-040 rotary encoder library for arduino and esp8266 devices
+- [addohms](https://github.com/baldengineer/addohms) - Projects and files from AddOhms Tutorials
+- [ReflowMaster](https://github.com/UnexpectedMaker/ReflowMaster) - Reflow Master is an open source Toaster Oven reflow controller that includes both hardware and software.
+- [tinypico-arduino](https://github.com/tinypico/tinypico-arduino) - Arduino libraries and example code for TinyPICO
+- [index](https://github.com/sphawes/index) - The Index is an open source pick and place machine.
+- [diy-stream-deck](https://github.com/SuperMakeSomething/diy-stream-deck) - Arduino code and icon templates for the DIY Stream Deck featured in Super Make Something Episode 22
+- [facewhisperer](https://github.com/scanlime/facewhisperer) - USB host add-on for the ChipWhisperer side-channel analysis tool
+- [LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
+- [openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+- [LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA tool for everyone!
 - [Mailbox-Notifier](https://github.com/gbhug5a/Mailbox-Notifier) - A mailbox notifier using a Lolin D1 Mini or Mini Pro with ESP8266
 - [esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [ESP32_Ceiling_Light](https://github.com/thehookup/ESP32_Ceiling_Light) - An ESP32 based ceiling light with 8 individually dimmable channels
-- [Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - A system that uses a series of ESP-NOW repeaters to transmit data from buildings and sensors without WiFi access
+- [Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - A system that uses a series of ESP-NOW repeaters to transmit data from buildings and sensors without WiFi access.
 - [AirQualitySensorD1Mini](https://github.com/SuperHouse/AirQualitySensorD1Mini) - Particulate Matter Sensor firmware for a Plantower PMS5003 connected to a Wemos D1 Mini
 - [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [Cube4](https://github.com/freetronics/Cube4) - 
 - [Wireless_MQTT_Doorbell](https://github.com/thehookup/Wireless_MQTT_Doorbell) - A smart wireless mqtt doorbell from a cheap 433mhz doorbell.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [EtherCard](https://github.com/njh/EtherCard) - EtherCard is an IPv4 driver for the ENC28J60 chip, compatible with Arduino IDE
 - [IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -109,6 +141,10 @@
 - [StudenServicesApp](https://github.com/KalleHallden/StudenServicesApp) - 
 - [ounotes](https://github.com/AbdulMalikDev/ounotes) - An Application built for students to access Notes , Question Papers , Syllabus and Resources for all Subjects of O.U (Osmania University)  📘👨‍🎓
 
+## Eagle 
+
+- [AppleIIMini](https://github.com/Cupcakus/AppleIIMini) - Apple II Mini for C.H.I.P
+
 ## Emacs Lisp 
 
 - [emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
@@ -116,6 +152,9 @@
 
 ## Go 
 
+- [talkiepi](https://github.com/CustomMachines/talkiepi) - The talkiepi project is for a truly headless mumble client for the Raspberry Pi, utilizing static config and GPIO for status LEDs and a button for push to talk
+- [talkiepi](https://github.com/dchote/talkiepi) - The talkiepi project is for a truly headless mumble client for the Raspberry Pi, utilizing static config and GPIO for status LEDs and a button for push to talk
+- [Pi-CLI](https://github.com/Reeceeboii/Pi-CLI) - Pi-hole data right from your terminal. Live updating view, query history extraction and more!
 - [terf](https://github.com/ubccr/terf) - Go library for reading/writing TensorFlow TFRecords file format
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [earthly](https://github.com/earthly/earthly) - Build automation for the container era
@@ -133,6 +172,10 @@
 
 ## HTML 
 
+- [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) - For interfacing with Windows/macOS/Linux using an ESP32, a touchscreen and BLE.
+- [kicad.github.io](https://github.com/KiCad/kicad.github.io) - KiCad Library Download Page
+- [volumetric_display](https://github.com/IdleHandsProject/volumetric_display) - TENEX OLED Displays
+- [Hub16](https://github.com/joshajohnson/Hub16) - A macro pad with 16 keys, two rotary encoders, a four port USB hub, and plenty of LEDs!
 - [Level-Up-JavaScript-Testing-101](https://github.com/leveluptuts/Level-Up-JavaScript-Testing-101) - Learn JavaScript testing with Jest.
 - [notes](https://github.com/mozilla/notes) - A notepad for Firefox
 - [node-red-contrib-light-scheduler](https://github.com/niklaswall/node-red-contrib-light-scheduler) - Light Scheduler is a node-red node that provides a weekly schedule mainly focused on controlling light in home automation scenarios.
@@ -150,6 +193,15 @@
 
 ## Java 
 
+- [Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
+- [openpnp](https://github.com/openpnp/openpnp) - Open Source SMT Pick and Place Hardware and Software
+- [Moppy2](https://github.com/Sammy1Am/Moppy2) - The evolution of the Musical flOPPY controller
+- [server](https://github.com/stream-pi/server) - Stream-Pi Server
+- [client](https://github.com/stream-pi/client) - Stream-Pi Client
+- [YouTubeModding14](https://github.com/McJty/YouTubeModding14) - Source code for my YouTube modding tutorial series for Minecraft 1.15 and 1.16
+- [YouTubeModdingTutorial](https://github.com/McJty/YouTubeModdingTutorial) - The source code for McJty's YouTube modding tutorial
+- [Essentials](https://github.com/essentials/Essentials) - Essentials - Minecraft server command mod - Adds over 100 commands for use in-game to help manage a server
+- [fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 - [carpet-extra](https://github.com/gnembon/carpet-extra) - Extra Features for Carpet Mod
 - [amidst](https://github.com/toolbox4minecraft/amidst) - Advanced Minecraft Interface and Data/Structure Tracking
 - [WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
@@ -163,6 +215,12 @@
 
 ## JavaScript 
 
+- [xod](https://github.com/xodio/xod) - XOD IDE
+- [gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
+- [PartKeepr](https://github.com/partkeepr/PartKeepr) - Open Source Inventory Management
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [publish-extensions](https://github.com/open-vsx/publish-extensions) - Scripts for publishing VS Code extensions to open-vsx.org
+- [platformio-vscode-ide](https://github.com/platformio/platformio-vscode-ide) - PlatformIO IDE for VSCode: The next generation integrated development environment for IoT
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [now-config](https://github.com/CodingGarden/now-config) - 
@@ -170,7 +228,7 @@
 - [djangoforbeginners](https://github.com/wsvincent/djangoforbeginners) - Source code for Django For Beginners
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
-- [reddit-post-updater](https://github.com/oli799/reddit-post-updater) - 
+- [reddit-post-updater](https://github.com/oli799/reddit-post-updater) - Update reddit post stats realtime in comments.
 - [trigBoardConfigurator](https://github.com/krdarrah/trigBoardConfigurator) - 
 - [woocommerce2vuestorefront](https://github.com/DivanteLtd/woocommerce2vuestorefront) - This is WooCommerce to Vue Storefront data bridge. Harness the power of Progressive Web Apps for Your Woo Commerce shop!
 - [node-uvc-control](https://github.com/joelpurra/node-uvc-control) - Fork of uvc-control for @joelpurra/uvcc. Might be deleted if it gets merged upstream.
@@ -202,7 +260,7 @@
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [emkc](https://github.com/engineer-man/emkc) - Engineer Man Knowledge Center
 - [PrusaMendel](https://github.com/prusajr/PrusaMendel) - My own RepRap Mendel redesign
@@ -221,6 +279,7 @@
 
 ## Makefile 
 
+- [crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [my-linux-setup](https://github.com/brpaz/my-linux-setup) - My Fedora Linux list of installed applications and Ansible provision scripts
 - [operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 
@@ -228,8 +287,27 @@
 
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
+## OpenSCAD 
+
+- [AmpProject](https://github.com/daveho/AmpProject) - DIY audio amplifier using eBay LM1875 modules
+
 ## Others 
 
+- [ei23-diy-smart-home](https://github.com/ei23com/ei23-diy-smart-home) - Easy installation script for great open source home automation software
+- [arduino-pro-mini-kicad](https://github.com/etimou/arduino-pro-mini-kicad) - This is a clone of the well known arduino board "pro-mini" designed in kicad while the original was designed in eagle. Ref https://store.arduino.cc/arduino-pro-mini
+- [Arduino_pro_mini_KiCad5](https://github.com/sagarHackeD/Arduino_pro_mini_KiCad5) - Arduino pro mini project in kicad 5
+- [arduino-kicad-library](https://github.com/Alarm-Siren/arduino-kicad-library) - Arduino Shield schematic and footprint library for KiCad
+- [bit-preserve](https://github.com/baldengineer/bit-preserve) - Project for capturing vintage, classic, aka old computer schematics in KiCad.
+- [manual_pnp_turntable](https://github.com/UnexpectedMaker/manual_pnp_turntable) - 
+- [spoolt](https://github.com/boldport/spoolt) - A solder wire spool feeder
+- [capaci-meter](https://github.com/boldport/capaci-meter) - Capacitance meter circuit and circuit-board
+- [ligemdio](https://github.com/boldport/ligemdio) - A LIGht EMitting DIOde tester
+- [cordwood-three](https://github.com/boldport/cordwood-three) - Cordwood puzzle 3
+- [documentation](https://github.com/stream-pi/documentation) - 
+- [freedeck-hardware](https://github.com/FreeYourStream/freedeck-hardware) - all the stuff you need to build your own FreeDeck
+- [Modding-Resources](https://github.com/MinecraftModDevelopment/Modding-Resources) - A set of ressources for minecraft modding with MinecraftForge by the community
+- [PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist) - PiHole and AGH Blocklists
+- [Node-RED-lighting-management](https://github.com/hazymat/Node-RED-lighting-management) - 
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [WeMos-Lora](https://github.com/hallard/WeMos-Lora) - ESP8266 WeMos Shield for HopeRF RFM95 RFM96 RFM98 Lora module
 - [vscode-settings](https://github.com/CodingGarden/vscode-settings) - All of the themes / plugins / extensions / settings I use for VSCode.
@@ -272,6 +350,7 @@
 
 ## PHP 
 
+- [panel](https://github.com/pterodactyl/panel) - Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
 - [lsx](https://github.com/lightspeeddevelopment/lsx) - LSX is an flexible, light-weight, minimalistic and responsive theme designed to empower makers to build beautifully rich websites with WordPress block editor. The theme displays perfectly on all desktop & mobile devices.
 - [reset-woocommerce-qty-wp-cli-wc](https://github.com/qsandbox/reset-woocommerce-qty-wp-cli-wc) - Reset product variation quantity
 - [data-import-script](https://github.com/sheethub/data-import-script) - 資料匯入的程式碼參考
@@ -317,6 +396,14 @@
 
 ## Python 
 
+- [SuperPower](https://github.com/SensorsIot/SuperPower) - Here you should find the best power supplies for your low-power projects
+- [routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
+- [Simple-Async-Port-Scanner](https://github.com/EONRaider/Simple-Async-Port-Scanner) - A simple asynchronous TCP/IP Connect Port Scanner in Python 3
+- [taskernet-collector](https://github.com/pghant/taskernet-collector) - Collects and search links to https://taskernet.com
+- [baby-safe-temp](https://github.com/geerlingguy/baby-safe-temp) - Safe temperature monitor for baby's room. Made for Raspberry Pi Pico.
+- [sosumi-snap](https://github.com/popey/sosumi-snap) - 
+- [platformio-core](https://github.com/platformio/platformio-core) - PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in!
+- [mcstatus](https://github.com/Dinnerbone/mcstatus) - A Python class for checking the status of an enabled Minecraft server
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ulauncher-system](https://github.com/iboyperson/ulauncher-system) - 
 - [ulauncher-devdocs](https://github.com/brpaz/ulauncher-devdocs) - Ulauncher extension to search documentation on DevDocs
@@ -348,7 +435,7 @@
 - [mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [translate](https://github.com/pytorch/translate) - Translate - a PyTorch Language Library
-- [Inkycal](https://github.com/aceisace/Inkycal) - Inykcal is a software written in python for selected E-Paper displays. It converts these displays into useful information dashboards. It's open-source, free for personal use, fully modular and user-friendly. Despite all this, Inkycal can run well even on the Raspberry Pi 0. Oh, and it's open for third-party modules! Hooray!
+- [Inkycal](https://github.com/aceisace/Inkycal) - Inykcal is a software written in python for selected E-Paper displays. It converts these displays into useful information dashboards. It's open-source, free for personal use, fully modular and user-friendly. Despite all this, Inkycal can run well even on the Raspberry Pi Zero W. Oh, and it's open for third-party modules! Hooray!
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [NameGenRoulette](https://github.com/KalleHallden/NameGenRoulette) - 
@@ -381,7 +468,7 @@
 - [yt-interval](https://github.com/DinRigtigeFar/yt-interval) - Flask app to download YT videos in intervals. Eg. from start to 30 seconds: start-30
 - [pyautogit](https://github.com/jwlodek/pyautogit) - A TUI for working with git repositories written in python using py_cui.
 - [py_cui](https://github.com/jwlodek/py_cui) - A python library for intuitively creating CUI/TUI interfaces with widgets, inspired by gocui.
-- [nordpy](https://github.com/morpheusthewhite/nordpy) - A gui application to connect automatically to the recommended NordVPN server of a certain type
+- [nordpy](https://github.com/morpheusthewhite/nordpy) - A gui application to connect automatically to the recommended NordVPN server
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [Amulet-Core](https://github.com/Amulet-Team/Amulet-Core) - A Python library for reading and writing the Minecraft save formats. See Amulet for the actual editor.
 - [Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
@@ -402,7 +489,7 @@
 - [reversing-list](https://github.com/naivenom/reversing-list) - Reversing list
 - [write-ups](https://github.com/InfoSecIITR/write-ups) - :blue_book: Writeups for different CTF challenges
 - [on-pwning](https://github.com/integeruser/on-pwning) - My solutions to some CTF challenges and a list of interesting resources about pwning stuff
-- [youtube](https://github.com/engineer-man/youtube) - Code from the Engineer Man YouTube channel
+- [youtube](https://github.com/engineer-man/youtube) - Code from the Engineer Man YouTube channel. Please do not submit pull requests, they will be ignored/closed. The code in the repo needs to remain as it was in the video.
 - [stream](https://github.com/gynvael/stream) - Gynvael's Livestream code
 - [LegacyCura](https://github.com/daid/LegacyCura) - Read this, it's important! NEW CURA DEVELOPMENT IS HAPPENING AT https://github.com/Ultimaker/Cura, this is the Cura 15.04 archive. Cura 2.1 and newer is on the Ultimaker github.
 - [rostock](https://github.com/jcrocholl/rostock) - Delta robot 3D printer.
@@ -410,6 +497,7 @@
 
 ## Ruby 
 
+- [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [chef-ssh-hardening](https://github.com/dev-sec/chef-ssh-hardening) - This chef cookbook provides secure ssh-client and ssh-server configurations.
@@ -417,6 +505,8 @@
 
 ## Shell 
 
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [timeshift-autosnap-apt](https://github.com/wmutschl/timeshift-autosnap-apt) - Timeshift auto-snapshot script for Ubuntu and Debian based systems which creates snapshots of your system with timeshift before a package install, remove or upgrade using DPkg::Pre-Invoke hook in apt. Fork of timeshift-autosnap from AUR.
 - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -452,7 +542,7 @@
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [frontend-framework-showdown-2020](https://github.com/CodingGarden/frontend-framework-showdown-2020) - Build the same Image Search App with Vanilla JS, React.js, Vue.js, Svelte and more!
-- [turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript.
+- [turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [zulip-desktop](https://github.com/zulip/zulip-desktop) - Zulip Desktop Client
 - [custom-card-helpers](https://github.com/custom-cards/custom-card-helpers) - Custom Card Helper Functions/Types for Developers
@@ -469,8 +559,13 @@
 
 - [hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 
+## Vala 
+
+- [timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
+
 ## Verilog 
 
+- [openlane](https://github.com/efabless/openlane) - OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
 - [Haasoscope](https://github.com/drandyhaas/Haasoscope) - Docs, design, firmware, and software for the Haasoscope
 
 ## Vim script 
@@ -490,12 +585,16 @@
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [tinylist](https://github.com/baggachipz/tinylist) - Note-keeping/checklist application for use across devices, while respecting privacy.
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 ## ZenScript 
 
 - [SevTech-Ages](https://github.com/DarkPacks/SevTech-Ages) - SevTech: Ages is a massive Minecraft modpack packed with content and progression.
+
+## nesC 
+
+- [4AxisFoamCutter](https://github.com/rahulsarchive/4AxisFoamCutter) - An open-source DIY 4 Axis Foam cutter using Ramps + Arduino for cutting RC Wing Cores.
 
 
 ## License
