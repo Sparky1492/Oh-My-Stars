@@ -22,12 +22,14 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [OCaml](#ocaml)
   - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
   - [PowerShell](#powershell)
+  - [Processing](#processing)
   - [Puppet](#puppet)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -48,6 +50,7 @@
 
 ## C 
 
+- [esp32-snippets](https://github.com/nkolban/esp32-snippets) - Sample ESP32 snippets and code fragments
 - [PCB_Designs](https://github.com/PlumPot55/PCB_Designs) - Source Files of our PCB we did as a community
 - [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [Otter-Iron](https://github.com/Jan--Henrik/Otter-Iron) - A TS100 USB-PD replacement PCB.
@@ -81,9 +84,11 @@
 - [TaskBud](https://github.com/SteffenBlake/TaskBud) - Simple and  Lightweight Task Organizer and Manager written in Asp.Net MVC Core
 - [CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero) - C# boot camp
 - [grocy-desktop](https://github.com/grocy/grocy-desktop) - A (Windows) desktop application wrapper for https://github.com/grocy/grocy
+- [Remotely](https://github.com/lucent-sea/Remotely) - A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
 
 ## C++ 
 
+- [Encoder](https://github.com/PaulStoffregen/Encoder) - Quadrature Encoder Library for Arduino
 - [HunterCatNFC](https://github.com/ElectronicCats/HunterCatNFC) - The Hunter Cat NFC is the latest security tool for contactless (Near Field Communication) used in access control, identification and bank cards. Specially created to identify NFC readers and sniffing tools, with this tool you can audit, read or emulate cards of different types.
 - [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
 - [Button2](https://github.com/LennartHennigs/Button2) - Arduino Library to simplify working with buttons. It allows you to use callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
@@ -92,7 +97,7 @@
 - [addohms](https://github.com/baldengineer/addohms) - Projects and files from AddOhms Tutorials
 - [ReflowMaster](https://github.com/UnexpectedMaker/ReflowMaster) - Reflow Master is an open source Toaster Oven reflow controller that includes both hardware and software.
 - [tinypico-arduino](https://github.com/tinypico/tinypico-arduino) - Arduino libraries and example code for TinyPICO
-- [index](https://github.com/sphawes/index) - The Index is an open source pick and place machine.
+- [index](https://github.com/index-machines/index) - The Index is an open source pick and place machine.
 - [diy-stream-deck](https://github.com/SuperMakeSomething/diy-stream-deck) - Arduino code and icon templates for the DIY Stream Deck featured in Super Make Something Episode 22
 - [facewhisperer](https://github.com/scanlime/facewhisperer) - USB host add-on for the ChipWhisperer side-channel analysis tool
 - [LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
@@ -115,7 +120,7 @@
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [Rack](https://github.com/VCVRack/Rack) - The Eurorack Simulator
 - [KeithsLEDCandle](https://github.com/keith204/KeithsLEDCandle) - LED Candle that Looks, Lights, Flickers, Blows out, Smokes, and Smells Like A Real Candle
-- [PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF) - Collection of CTF "technical" writeups.
+- [ctf-writeups](https://github.com/sajjadium/ctf-writeups) - CTF Writeups: Collection of CTF "technical" writeups by PersianCats.
 - [SensorKinect](https://github.com/avin2/SensorKinect) - PrimeSensor Modules for OpenNI
 - [OpenNI](https://github.com/OpenNI/OpenNI) - OpenNI
 - [Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
@@ -139,7 +144,7 @@
 ## Dart 
 
 - [StudenServicesApp](https://github.com/KalleHallden/StudenServicesApp) - 
-- [ounotes](https://github.com/AbdulMalikDev/ounotes) - An Application built for students to access Notes , Question Papers , Syllabus and Resources for all Subjects of O.U (Osmania University)  📘👨‍🎓
+- [ounotes](https://github.com/AbdulMalikDev/ounotes) - An Application built for students to access Notes , Question Papers , Syllabus and Resources for all Subjects of O.U (Osmania University) using Flutter  📘👨‍🎓
 
 ## Eagle 
 
@@ -172,6 +177,7 @@
 
 ## HTML 
 
+- [digikey-partner-kicad-library](https://github.com/Digi-Key/digikey-partner-kicad-library) - 
 - [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) - For interfacing with Windows/macOS/Linux using an ESP32, a touchscreen and BLE.
 - [kicad.github.io](https://github.com/KiCad/kicad.github.io) - KiCad Library Download Page
 - [volumetric_display](https://github.com/IdleHandsProject/volumetric_display) - TENEX OLED Displays
@@ -179,6 +185,7 @@
 - [Level-Up-JavaScript-Testing-101](https://github.com/leveluptuts/Level-Up-JavaScript-Testing-101) - Learn JavaScript testing with Jest.
 - [notes](https://github.com/mozilla/notes) - A notepad for Firefox
 - [node-red-contrib-light-scheduler](https://github.com/niklaswall/node-red-contrib-light-scheduler) - Light Scheduler is a node-red node that provides a weekly schedule mainly focused on controlling light in home automation scenarios.
+- [techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Documentation for Techno Tim YouTube Videos
 - [mycroft-skills](https://github.com/MycroftAI/mycroft-skills) - A repository for sharing and collaboration for third-party Mycroft skills development.
 - [beeware.github.io](https://github.com/danyeaw/beeware.github.io) - 🐍🐝
 - [home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
@@ -215,10 +222,11 @@
 
 ## JavaScript 
 
+- [1clickBOM](https://github.com/kitspace/1clickBOM) - A browser extension to quickly fill shopping carts with electronic components.
 - [xod](https://github.com/xodio/xod) - XOD IDE
 - [gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 - [PartKeepr](https://github.com/partkeepr/PartKeepr) - Open Source Inventory Management
-- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [publish-extensions](https://github.com/open-vsx/publish-extensions) - Scripts for publishing VS Code extensions to open-vsx.org
 - [platformio-vscode-ide](https://github.com/platformio/platformio-vscode-ide) - PlatformIO IDE for VSCode: The next generation integrated development environment for IoT
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
@@ -258,7 +266,6 @@
 - [terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
 - [shellcheck.net](https://github.com/koalaman/shellcheck.net) - ShellCheck.net, shellcheck's website and online demo
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
@@ -283,6 +290,10 @@
 - [my-linux-setup](https://github.com/brpaz/my-linux-setup) - My Fedora Linux list of installed applications and Ansible provision scripts
 - [operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 
+## Markdown 
+
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## OCaml 
 
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
@@ -293,7 +304,8 @@
 
 ## Others 
 
-- [ei23-diy-smart-home](https://github.com/ei23com/ei23-diy-smart-home) - Easy installation script for great open source home automation software
+- [digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library) - An atomic parts  library for Ki-Cad.
+- [diy-smart-home](https://github.com/ei23com/diy-smart-home) - Easy installation script for great open source home automation software
 - [arduino-pro-mini-kicad](https://github.com/etimou/arduino-pro-mini-kicad) - This is a clone of the well known arduino board "pro-mini" designed in kicad while the original was designed in eagle. Ref https://store.arduino.cc/arduino-pro-mini
 - [Arduino_pro_mini_KiCad5](https://github.com/sagarHackeD/Arduino_pro_mini_KiCad5) - Arduino pro mini project in kicad 5
 - [arduino-kicad-library](https://github.com/Alarm-Siren/arduino-kicad-library) - Arduino Shield schematic and footprint library for KiCad
@@ -314,9 +326,8 @@
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [backups](https://github.com/thehookup/backups) - automated hassio backups
 - [hassio-addons](https://github.com/danielwelch/hassio-addons) - Add-ons for Home Assistant's Hass.io
-- [youtube-videos](https://github.com/techno-tim/youtube-videos) - Documentation for Techno Tim YouTube Videos
 - [download](https://github.com/ramboxapp/download) - Download binaries for Rambox Pro
-- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5600+ Material Design Icons from the Community
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5900+ Material Design Icons from the Community
 - [pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
 - [ESPCam](https://github.com/glytchtech/ESPCam) - STL and Configuration Files for Glytch's ESPCam Project
 - [voice-engine.github.io](https://github.com/voice-engine/voice-engine.github.io) - The website
@@ -390,12 +401,19 @@
 - [Get-MailboxReport.ps1](https://github.com/cunninghamp/Get-MailboxReport.ps1) - PowerShell script to generate a report of mailboxes, including information such as item count, total size, and other useful attributes.
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 
+## Processing 
+
+- [trigBoardTester](https://github.com/krdarrah/trigBoardTester) - 
+
 ## Puppet 
 
 - [personal-puppet](https://github.com/asottile/personal-puppet) - serverless puppet to manage my machines
 
 ## Python 
 
+- [pcbmode](https://github.com/boldport/pcbmode) - A printed circuit board design tool with a twist
+- [IOTstack](https://github.com/SensorsIot/IOTstack) - Docker stack for getting started on IOT on the Raspberry PI
+- [oh-my-stars](https://github.com/wolfg1969/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
 - [SuperPower](https://github.com/SensorsIot/SuperPower) - Here you should find the best power supplies for your low-power projects
 - [routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [Simple-Async-Port-Scanner](https://github.com/EONRaider/Simple-Async-Port-Scanner) - A simple asynchronous TCP/IP Connect Port Scanner in Python 3
@@ -405,7 +423,7 @@
 - [platformio-core](https://github.com/platformio/platformio-core) - PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in!
 - [mcstatus](https://github.com/Dinnerbone/mcstatus) - A Python class for checking the status of an enabled Minecraft server
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [ulauncher-system](https://github.com/iboyperson/ulauncher-system) - 
+- [ulauncher-system](https://github.com/iboyperson/ulauncher-system) - Ulauncher extension to perform various system actions
 - [ulauncher-devdocs](https://github.com/brpaz/ulauncher-devdocs) - Ulauncher extension to search documentation on DevDocs
 - [ulauncher-ssh](https://github.com/jetbug123/ulauncher-ssh) - 
 - [ulauncher-emoji](https://github.com/Ulauncher/ulauncher-emoji) - Emoji Extension
@@ -505,6 +523,7 @@
 
 ## Shell 
 
+- [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [timeshift-autosnap-apt](https://github.com/wmutschl/timeshift-autosnap-apt) - Timeshift auto-snapshot script for Ubuntu and Debian based systems which creates snapshots of your system with timeshift before a package install, remove or upgrade using DPkg::Pre-Invoke hook in apt. Fork of timeshift-autosnap from AUR.
 - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -513,18 +532,16 @@
 - [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [rabbit-prometheus-influx-grafana](https://github.com/4refr0nt/rabbit-prometheus-influx-grafana) - MQTT boilerplate
-- [pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - An tool to analyse how your pihole adlists cover you browsing behavior
+- [pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
 - [tagreader](https://github.com/adonno/tagreader) - Simple to build/use NFC tag reader, specially created for Home Assistant
 - [dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [dotfiles](https://github.com/candreslobor/dotfiles) - Arch Dotfiles
 - [NetworkChuck](https://github.com/theNetworkChuck/NetworkChuck) - 
 - [bash-numpad-input](https://github.com/TDGalea/bash-numpad-input) - Solely available for people to view the source code.
-- [awesome-streamerrc](https://github.com/awesome-streamers/awesome-streamerrc) - Current .vimrc configs for various streamers on Twitch.
 - [canvas](https://github.com/adi1090x/canvas) - 🖼️ A Gradient / Blured Wallpaper Generator And Setter.
 - [server-setup](https://github.com/bucherfa/server-setup) - Home Server Setup
 - [retrofitvent](https://github.com/mloupe/retrofitvent) - A How-to-guide for retrofitting your 3D Printer into a ventilator
 - [cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [nginx-cloudflare-real-ip](https://github.com/ergin/nginx-cloudflare-real-ip) - This project aims to modify your nginx configuration to let you get the real ip address of your visitors.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -553,7 +570,7 @@
 - [taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [vim-royale](https://github.com/ThePrimeagen/vim-royale) - Because Nano sucks
-- [Remotely](https://github.com/lucent-sea/Remotely) - A remote control and remote scripting solution, built with .NET Core, SignalR Core, and WebRTC.
+- [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
 ## VBA 
 
@@ -570,6 +587,7 @@
 
 ## Vim script 
 
+- [awesome-streamerrc](https://github.com/awesome-streamers/awesome-streamerrc) - Current .vimrc configs for various streamers on Twitch.
 - [vim-colors-xcode](https://github.com/arzg/vim-colors-xcode) - Xcode 11’s dark and light colourschemes, now for Vim!
 - [gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [dotfiles](https://github.com/jvinet/dotfiles) - A dumping ground for my personal dotfiles.
